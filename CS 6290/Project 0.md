@@ -1,6 +1,18 @@
 # CS 6290 High Performance Computer Archit (Spring 2020)
+## Author: Xiaolong Li
+## Date: January 12, 2020
 Project 0
 
+
+
+
+
+
+
+
+
+
+Readning: 
 CS 6290: High-Performance Computer Architecture 
 
 Project 0 
